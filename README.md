@@ -28,5 +28,8 @@ Think about the efficiency of your algorithm. How many iterations does it do? Lo
 * [Basic Benchmarking in Ruby](http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/)
 * [Wikipedia](http://en.wikipedia.org/) - [Prime number](http://en.wikipedia.org/wiki/Prime_number)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-prime-ruby/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-prime-ruby/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/prime-ruby'>Prime? Lab</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Implementing Prime</p>
